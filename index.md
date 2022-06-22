@@ -27,5 +27,16 @@
  * What changed in 1961 (a new zoning resolution was passed): [https://www1.nyc.gov/assets/planning/download/pdf/about/city-planning-history/zoning_handbook_1961.pdf](https://www1.nyc.gov/assets/planning/download/pdf/about/city-planning-history/zoning_handbook_1961.pdf)
 
 ### Additional Reading & Resources 
- * 40 Percent of the Buildings in Manhattan Could Not Be Built Today (New York Times Interactive): [https://www.nytimes.com/interactive/2016/05/19/upshot/forty-percent-of-manhattans-buildings-could-not-be-built-today.html](https://www.nytimes.com/interactive/2016/05/19/upshot/forty-percent-of-manhattans-buildings-could-not-be-built-today.html)
-
+ * NYC’s Zoning and FAR Cap
+   * [40 Percent of the Buildings in Manhattan Could Not Be Built Today (New York Times Interactive)](https://www.nytimes.com/interactive/2016/05/19/upshot/forty-percent-of-manhattans-buildings-could-not-be-built-today.html)
+   * [A History of the FAR Limitation Under the New York Multiple Dwelling Law - Center for Urban Real Estate at Columbia University (CURE)](https://d37vpt3xizf75m.cloudfront.net/api/file/seK91Cu3Qr2NBDe1q1yp)
+   * [The Case for Lifting the FAR Cap – Regional Plan Association](https://rpa.org/uploads/old-site/library.rpa.org/pdf/RPA-12-FAR.pdf)
+ * Histories of Zoning
+   * [Zoning Rules! The Economics of Land Use Regulation by William A. Fischel](https://www.lincolninst.edu/publications/books/zoning-rules)
+   * [Arbitrary Lines by M. Nolan Gray](https://bookshop.org/books/arbitrary-lines-how-zoning-broke-the-american-city-and-how-to-fix-it/9781642832549)
+   * Zoned America by Seymour I. Toll *(this is very out of print)*
+   * [The Creative Destruction of Manhattan by Max Page (particularly the 2nd chapter on Fifth Avenue)](https://browse.nypl.org/iii/encore/record/C__Rb14441829__Sthe%20creative%20destruction%20of%20manhattan__Orightresult__U__X6?lang=eng&suite=def&ivts=Kgoe%2FjwhINkwp4N6HRNwXw%3D%3D&casts=jUWj6gfRU9Neym2tMbD4aQ%3D%3D)
+   * [Turning Neighbors Into Nuisances by Maureen E. Brady](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3799679)
+ * Histories of Tenements
+   * [The decorated tenement: how immigrant builders and architects transformed the slum in the Gilded Age by Violette, Zachary J.](https://browse.nypl.org/iii/encore/record/C__Rb21838044__Sthe%20decorated%20tenement__Orightresult__U__X7?lang=eng&suite=def)
+   * [How the Other Half Lives by Jacob Riis](https://www.gutenberg.org/files/45502/45502-h/45502-h.htm)
