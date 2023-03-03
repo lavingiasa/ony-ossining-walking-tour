@@ -14,7 +14,7 @@
    5. [Old Croton Aqueduct Trail Entrance](https://www.google.com/maps/place/41%C2%B009'40.8%22N+73%C2%B051'45.0%22W/@41.161335,-73.8630375,19z/data=!3m1!4b1!4m4!3m3!8m2!3d41.161334!4d-73.862489)
    6. [200 Main Street / State Route 9](https://riverjournalonline.com/business/ossining-tries-again-to-find-new-owner-for-vacant-main-st-landmark/31613/)
    7. [Down to Earth Ossining Farmers Market](https://westchester.kidsoutandabout.com/content/down-earth-ossining-farmers-market)
- * Zoning Districts: [https://ecode360.com/6427116)
+ * [Zoning Districts](https://ecode360.com/6427116)
 
 ### Additional Reading & Resources 
  * [Village of Ossining Architechtural Design Guidelines](https://www.wmpf.org/wp-content/uploads/2012/01/Village-of-Ossining-Architectural-Guidelines-2010.pdf)
