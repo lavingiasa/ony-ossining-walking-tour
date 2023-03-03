@@ -1,6 +1,6 @@
 ## ONY Walking Tour Resources
 
-### NYC Zoning & Land Use Map (ZoLa) and Information
+### Ossining Zoning & Land Use Map and Information
  * Interactive citywide map: [https://zola.planning.nyc.gov/](https://zola.planning.nyc.gov/) 
  * Tour stops
    1. [31-33 Carmine St](https://zola.planning.nyc.gov/l/lot/1/586/32?aerial-year=aerials-2016&layer-groups=%5B%22building-footprints%22%2C%22commercial-overlays%22%2C%22street-centerlines%22%2C%22subway%22%2C%22tax-lots%22%2C%22zoning-districts%22%5D&print=false&search=true&selectedFirm=%5B%22A%22%2C%22Shaded%20X%22%2C%22V%22%5D&selectedOverlays=%5B%22C1-1%22%2C%22C1-2%22%2C%22C1-3%22%2C%22C1-4%22%2C%22C1-5%22%2C%22C2-1%22%2C%22C2-2%22%2C%22C2-3%22%2C%22C2-4%22%2C%22C2-5%22%5D&selectedPfirm=%5B%22A%22%2C%22Shaded%20X%22%2C%22V%22%5D&selectedZoning=%5B%22BP%22%2C%22C1%22%2C%22C2%22%2C%22C3%22%2C%22C4%22%2C%22C5%22%2C%22C6%22%2C%22C7%22%2C%22C8%22%2C%22M1%22%2C%22M2%22%2C%22M3%22%2C%22PA%22%2C%22R1%22%2C%22R10%22%2C%22R2%22%2C%22R3%22%2C%22R4%22%2C%22R5%22%2C%22R6%22%2C%22R7%22%2C%22R8%22%2C%22R9%22%5D&shouldRefresh=false#17.7/40.730328/-74.002426)
